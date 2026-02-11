@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <rect width="400" height="300" fill="#1e1e1e"/>
+    <path d="M200 80 L240 220 L160 220 Z" fill="#DAA520" opacity="0.8"/>
+    <circle cx="200" cy="180" r="20" fill="#FFD700"/>
+    <text x="50%" y="90%" dominant-baseline="middle" text-anchor="middle" font-family="serif" font-size="24" fill="#d4af37">Brass Idol</text>
+</svg>

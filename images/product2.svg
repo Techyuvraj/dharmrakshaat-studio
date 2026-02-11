@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <rect width="400" height="300" fill="#1e1e1e"/>
+    <rect x="170" y="80" width="60" height="140" fill="#2a2a2a" stroke="#d4af37" stroke-width="2"/>
+    <rect x="180" y="60" width="40" height="20" fill="#d4af37"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="serif" font-size="24" fill="#d4af37">Essence No. 5</text>
+</svg>

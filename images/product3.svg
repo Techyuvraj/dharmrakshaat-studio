@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <rect width="400" height="300" fill="#1e1e1e"/>
+    <path d="M140 120 Q200 180 260 120 L260 220 L140 220 Z" fill="#2a2a2a" stroke="#d4af37" stroke-width="2"/>
+    <path d="M180 120 Q200 80 220 120" fill="none" stroke="#d4af37" stroke-width="3"/>
+    <text x="50%" y="90%" dominant-baseline="middle" text-anchor="middle" font-family="serif" font-size="24" fill="#d4af37">Leather Satchel</text>
+</svg>
